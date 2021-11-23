@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magic-oauth2", "magic-oauth2\magic-oauth2.csproj", "{94292524-5C38-4536-B8DA-0436E1B7A152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94292524-5C38-4536-B8DA-0436E1B7A152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94292524-5C38-4536-B8DA-0436E1B7A152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94292524-5C38-4536-B8DA-0436E1B7A152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94292524-5C38-4536-B8DA-0436E1B7A152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63B9C4C-94BA-4FDD-AD17-A669E08B6B5B}
+	EndGlobalSection
+EndGlobal
